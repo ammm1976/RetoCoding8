@@ -1,0 +1,2 @@
+Hay un problema:
+  Hago border-color: purple en a:focus para ponerles un borde morado cuando toman el foco, pero el borde me sale negro.
